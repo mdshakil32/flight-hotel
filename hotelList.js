@@ -8,6 +8,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Trending",
+    rating: 4.4,
+    available: 2,
   },
   {
     name: "Luxury Suites",
@@ -18,6 +20,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Popular",
+    rating: 2.4,
+    available: 7,
   },
   {
     name: "Cozy Inn",
@@ -28,6 +32,8 @@ const hotelList = [
     AC: false,
     breakfast: false,
     status: "Top Selling",
+    rating: 3.0,
+    available: 4,
   },
   {
     name: "Seaside Villa",
@@ -38,6 +44,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Trending",
+    rating: 3.9,
+    available: 8,
   },
   {
     name: "Mountain View Lodge",
@@ -48,6 +56,8 @@ const hotelList = [
     AC: true,
     breakfast: false,
     status: "Popular",
+    rating: 4.2,
+    available: 7,
   },
   {
     name: "Riverside Retreat",
@@ -58,6 +68,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Trending",
+    rating: 4.8,
+    available: 12,
   },
   {
     name: "Cityscape Hotel",
@@ -68,6 +80,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Popular",
+    rating: 3.1,
+    available: 1,
   },
   {
     name: "Desert Oasis Resort",
@@ -78,6 +92,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Top Selling",
+    rating: 3.2,
+    available: 3,
   },
   {
     name: "Historic Inn",
@@ -88,6 +104,8 @@ const hotelList = [
     AC: false,
     breakfast: true,
     status: "Trending",
+    rating: 3.3,
+    available: 2,
   },
   {
     name: "Green Valley Lodge",
@@ -98,6 +116,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Trending",
+    rating: 3.4,
+    available: 10,
   },
   {
     name: "Tropical Paradise Resort",
@@ -108,6 +128,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Top Selling",
+    rating: 4.9,
+    available: 1,
   },
   {
     name: "Hilltop Hideaway",
@@ -118,6 +140,8 @@ const hotelList = [
     AC: true,
     breakfast: false,
     status: "Popular",
+    rating: 2.9,
+    available: 3,
   },
   {
     name: "Charming Cottage",
@@ -128,6 +152,8 @@ const hotelList = [
     AC: false,
     breakfast: true,
     status: "Popular",
+    rating: 3.7,
+    available: 7,
   },
   {
     name: "Lakeside Lodge",
@@ -138,6 +164,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Trending",
+    rating: 3.8,
+    available: 4,
   },
   {
     name: "Urban Retreat Hotel",
@@ -148,6 +176,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Top Selling",
+    rating: 3.0,
+    available: 2,
   },
   {
     name: "Snowy Mountain Chalet",
@@ -158,6 +188,8 @@ const hotelList = [
     AC: true,
     breakfast: false,
     status: "Trending",
+    rating: 3.0,
+    available: 6,
   },
   {
     name: "Ocean Paradise",
@@ -168,6 +200,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Trending",
+    rating: 3.0,
+    available: 9,
   },
   {
     name: "Luxury Suites",
@@ -178,6 +212,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Popular",
+    rating: 3.9,
+    available: 8,
   },
   {
     name: "Cozy Inn",
@@ -188,6 +224,8 @@ const hotelList = [
     AC: false,
     breakfast: false,
     status: "Trending",
+    rating: 2.9,
+    available: 3,
   },
   {
     name: "Seaside Villa",
@@ -198,6 +236,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Top Selling",
+    rating: 4.4,
+    available: 11,
   },
   {
     name: "Mountain View Lodge",
@@ -208,6 +248,8 @@ const hotelList = [
     AC: true,
     breakfast: false,
     status: "Trending",
+    rating: 4.8,
+    available: 10,
   },
   {
     name: "Riverside Retreat",
@@ -218,6 +260,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Popular",
+    rating: 3.4,
+    available: 9,
   },
   {
     name: "Cityscape Hotel",
@@ -228,6 +272,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Top Selling",
+    rating: 3.5,
+    available: 7,
   },
   {
     name: "Desert Oasis Resort",
@@ -238,6 +284,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Popular",
+    rating: 3.0,
+    available: 1,
   },
   {
     name: "Historic Inn",
@@ -248,6 +296,8 @@ const hotelList = [
     AC: false,
     breakfast: true,
     status: "Top Selling",
+    rating: 3.4,
+    available: 2,
   },
   {
     name: "Green Valley Lodge",
@@ -258,6 +308,8 @@ const hotelList = [
     AC: true,
     breakfast: true,
     status: "Trending",
+    rating: 3.0,
+    available: 6,
   },
 ];
 

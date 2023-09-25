@@ -1,8 +1,10 @@
 const express = require("express");
+const cors = require("cors")
 const flightList = require("./flight")
 const hotelList = require("./hotelList")
 
 const app = express();
+app.use(cors());
 // app.use(express.static('public'));
 app.use((req, res, next) => {
     req.rootDir = __dirname;
